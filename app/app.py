@@ -70,6 +70,7 @@ st.markdown("""
     }
     .source-box {
         background-color: #e8eaf6;
+        color: #1a1a1a;
         padding: 0.75rem;
         border-radius: 0.375rem;
         margin: 0.5rem 0;
